@@ -1,5 +1,5 @@
 {
-    "name": "00-backend-project",
+    "name": "backend",
     "version": "1.0.0",
     "description": "a professional way to build a project",
     "main": "index.js",
